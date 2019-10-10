@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/voice-input/static/css/main.b100e6da.chunk.css",
+    "main.js": "/voice-input/static/js/main.9728f64a.chunk.js",
+    "main.js.map": "/voice-input/static/js/main.9728f64a.chunk.js.map",
+    "runtime-main.js": "/voice-input/static/js/runtime-main.92d4a780.js",
+    "runtime-main.js.map": "/voice-input/static/js/runtime-main.92d4a780.js.map",
+    "static/js/2.2efc002c.chunk.js": "/voice-input/static/js/2.2efc002c.chunk.js",
+    "static/js/2.2efc002c.chunk.js.map": "/voice-input/static/js/2.2efc002c.chunk.js.map",
+    "index.html": "/voice-input/index.html",
+    "precache-manifest.f683dde04238d5d465c0ad10241def0b.js": "/voice-input/precache-manifest.f683dde04238d5d465c0ad10241def0b.js",
+    "service-worker.js": "/voice-input/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/voice-input/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92d4a780.js",
+    "static/js/2.2efc002c.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.9728f64a.chunk.js"
+  ]
+}
