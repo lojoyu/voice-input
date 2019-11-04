@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5dde7fa73467a799f0f4c76e734b6fd1",
+    "revision": "81db67ad42748d7951918e303c914374",
     "url": "/voice-input/index.html"
   },
   {
-    "revision": "5e5917a0247ae0f76e77",
+    "revision": "df4ceb42ec828dafda31",
     "url": "/voice-input/static/css/main.34ce445c.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/voice-input/static/js/2.776e2c16.chunk.js"
   },
   {
-    "revision": "5e5917a0247ae0f76e77",
-    "url": "/voice-input/static/js/main.f8ca2714.chunk.js"
+    "revision": "df4ceb42ec828dafda31",
+    "url": "/voice-input/static/js/main.05be16b0.chunk.js"
   },
   {
     "revision": "ca2d827ce8bc06b7f9a9",
