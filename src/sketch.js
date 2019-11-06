@@ -8,7 +8,7 @@ export default function sketch (p) {
     let btnClick;
     let button;
     let bufferLength;
-    let bgColor = [250, 255, 0];
+    let bgColor = [0, 0, 0];
 
     p.setup = () => {
         p.createCanvas(p.windowWidth, p.windowHeight);
@@ -73,7 +73,6 @@ export default function sketch (p) {
         
         let mul = p.map(db, 0, 1, 40, 50);
         let r = p.map(db, 0, 1, 30, 70);
-        //console.log(db,mul);
 
         // p.stroke(50);
         // p.beginShape(p.TRIANGLE_STRIP);
